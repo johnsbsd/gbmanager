@@ -1,0 +1,2 @@
+# gbmanager
+GhostBSD system manager
